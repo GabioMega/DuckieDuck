@@ -36,7 +36,7 @@
     margin-left: 60px;
 }
 .navbar ul li a{
-    color: white;
+    color: #717171;
     padding: 10px 15px;
     border-radius: 5px;
     text-transform: uppercase;
@@ -65,7 +65,6 @@ html, body{
     width: 100%;
 }
 .background{
-    background-color: #fffded;
     position: relative;
     background-size: cover;
     padding: 19px;
@@ -90,7 +89,7 @@ input{
     background-color: transparent;
     border: none;
     outline: none;
-    border-bottom: 2px solid #717171 ;
+    border-bottom: 2px solid #717171;
     color: #717171;
     font-size: 19px;
     font-style: normal;
@@ -99,10 +98,10 @@ input{
     width: 379px;
 }
 .right{
-    width: 50%;
+    width: 40%;
     height: 70%;
     border-radius: 10px;
-    background: rgba(165, 172, 127, 0.2);
+    background: #fce762;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -158,8 +157,14 @@ button:hover{
     .title{
         margin-top: 150px;
     }
+    .right{
+        width: 30%;
+    }
 }
-@media (max-width: 970px){
+@media (max-width: 1200px){
+    .right{
+        width: 45%;
+    }
     .title{
         font-size: 18px;
         margin-top: 40px;

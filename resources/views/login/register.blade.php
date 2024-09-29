@@ -17,7 +17,7 @@
           <section></section>
     </header>
 
-    <div class="background">
+    <div class="background" style="background-image: url('{{ asset('assets/groupducks.jpg') }}');">
         <div class="right">
             <div class="title">
                 <h2>REGISTER</h2>

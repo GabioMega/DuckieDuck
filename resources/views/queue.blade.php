@@ -37,7 +37,7 @@
             <div class="box">
                 <h2>Congratulations, you’re in queue for purchasing "the duck".
                     Please wait patiently!</h2>
-                <h3>Your queue number is: </h3>
+                <h3>Thank You!</h3>
                 <div class="q">
                     <a class="ret" href="{{url('')}}"><button>Return</button></a>
                 </div>
