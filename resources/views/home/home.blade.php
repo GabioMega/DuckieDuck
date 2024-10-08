@@ -67,8 +67,7 @@
                     <p>Duckie Duck</p>
                 </div>
                 <div class="right">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet dolores ullam quis esse inventore similique debitis atque saepe quaerat in? Temporibus distinctio accusamus veniam omnis, vero fugiat beatae nam id?
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet dolores ullam quis esse inventore similique debitis atque saepe quaerat in? Temporibus distinctio accusamus veniam omnis, vero fugiat beatae nam id?</p>
+                    <p>Duckie Duck is a playful and curious little yellow duck known for its adventurous spirit and vibrant personality. With soft, fluffy feathers and an iconic orange beak, Duckie loves to waddle around ponds, lakes, and grassy fields, exploring the world around them. Always eager to make new friends, Duckie has a cheerful quack that brightens up everyone's day. </p>
                 </div>
                 <div class="q">
                     <a class="q" href="{{url('queue')}}"><button>Queue</button></a>
@@ -106,8 +105,7 @@
                     <p>Duckie Duck</p>
                 </div>
                 <div class="right">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet dolores ullam quis esse inventore similique debitis atque saepe quaerat in? Temporibus distinctio accusamus veniam omnis, vero fugiat beatae nam id?
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet dolores ullam quis esse inventore similique debitis atque saepe quaerat in? Temporibus distinctio accusamus veniam omnis, vero fugiat beatae nam id?</p>
+                    <p>Duckie Duck is a playful and curious little yellow duck known for its adventurous spirit and vibrant personality. With soft, fluffy feathers and an iconic orange beak, Duckie loves to waddle around ponds, lakes, and grassy fields, exploring the world around them. Always eager to make new friends, Duckie has a cheerful quack that brightens up everyone's day. </p>
                 </div>
                 <div class="q">
                     <a class="q" href="{{url('login')}}"><button>Queue</button></a>
